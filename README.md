@@ -1,6 +1,6 @@
 ### Hey there 👋 I'm Gabriel (🇧🇷)(🇺🇸) 😄 
 
-First programming language I started learned was HTML in **2015**
+First programming language I started learning was HTML in **2015**
 
 Started using Github in **2021**
 
