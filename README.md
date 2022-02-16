@@ -1,9 +1,1 @@
-### Hey there 👋 I'm Gabriel (🇧🇷)(🇺🇸) 😄 
-
-* Currently learning with Front-End Development 
-
-* Mastering HTML, CSS, JavaScript
-
-* Learning React.js and Next.js
-
-* Some experience with Java and MySQL
+![Metrics](https://metrics.lecoq.io/gasech?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FSao_Paulo)
