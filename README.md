@@ -1,16 +1,15 @@
-### Hi there 👋
+I'm Gabriel, a developer from São Paulo, Brazil. I code, design interfaces, and love diving into the depths of computers and the vast web. 
+Feel free to visit my repositories and [website](https://www.gabscs.com/)
 
-<!--
-**gasech/gasech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When not coding, catch me gaming, exploring new places or experimenting in the kitchen.
 
-Here are some ideas to get you started:
+If you wanna hire me, my timezone is UTC-3 (BRT). Contact me by e-mail: gsechaus@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gasech&layout=compact&hide=css&theme=holi)
+
+### What I use
+<ul>
+  <li>Editor: nvim btw</li>
+  <li>Terminal: kitty with zsh</li>
+  <li>OS: Windows for gaming and ArchLinux for everything else.</li>
+</ul>
