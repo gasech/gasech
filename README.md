@@ -1,5 +1,5 @@
 I'm Gabriel, a developer from São Paulo, Brazil. I code, design interfaces, and love diving into the depths of computers and the vast web. 
-Feel free to visit my repositories and [website](https://www.gabscs.com/)
+Feel free to visit my repositories and [website](https://www.gabschs.com/)
 
 If you wanna hire me, my timezone is UTC-3 (BRT). Contact me by e-mail: gsechaus@gmail.com
 
